@@ -1,0 +1,135 @@
+ body{background-color: lightgreen;}
+
+ h1{color:red;
+    text-align: center}
+
+ #top{font-size: 130;
+      text-decoration: underline;}
+         
+#lefttext{
+       position:fixed;
+       left:16%;
+       top:200px;
+       font-size:120%;
+       font-style:italic;
+       width:20%;
+       border: 10px solid white;
+       margin-left:0;
+       margin-right:0;}
+        
+ .imgwrapper {
+     position:absolute;
+     right:0px;
+     top;100px;
+     width:45%;
+     height: 100px;}
+           
+.b {
+    display:block;
+    margin-left: auto;
+    margin-right: 0;
+    margin-top: 0;
+    width:100%;
+}
+.g{ display: block;
+    margin-left: auto;
+    margin-right: 0;
+    margin-top: -45;
+    width: 75%}
+.c{ display:grid;
+    position:absolute;
+    bottom:10px;
+    margin-left: 0;
+    margin-right: auto;
+  }
+
+.d{display:grid;
+    position:absolute;
+    bottom:-10px;
+    margin-left: 0;
+    margin-right: auto; }
+
+.f{display:grid;
+    position:absolute;
+    bottom:-30px;
+    margin-left: 0;
+    margin-right: auto;  }
+
+#lefttext{
+       position:absolute;
+       left:20%;
+       top:275px;
+       font-size:120%;
+       font-style:italic;
+       width:20%;
+       border: 10px solid blue;
+       margin-left:0;
+       margin-right:0;}
+
+.gc{background-color: lightblue;
+    color:brown;}
+
+#top1{
+    color:orange;
+    font-size: 130;
+    text-decoration: underline
+    
+}
+
+.gb{background-color: pink;
+    color:blueviolet;}
+
+#top2{
+    color:blue;
+    font-size: 130;
+    text-decoration: underline;
+}
+
+.mx{background-color: white;
+    color:green;}
+
+#top3{
+    color:red;
+    font-size: 130;
+    text-decoration: underline;
+    }
+
+.paris{background-color: sandybrown;
+color: black}
+
+#top4{
+    color:purple;
+    font-size: 130;
+    text-decoration: underline;
+}
+
+.italy{background-color: lightseagreen;
+color: aliceblue}
+
+#top5{
+    color:green;
+    font-size: 130;
+    text-decoration: underline
+}
+
+.india{background-color: gray;
+       color: white;}
+#top6{
+    color:yellow;
+    font-size: 130;
+    text-decoration: underline;
+}
+
+.japan{
+    background-color: lightcoral;
+    color: purple;
+}
+
+#top7{
+    color: black;
+    font-size: 130;
+    text-decoration: underline;
+    
+}
+
+           
